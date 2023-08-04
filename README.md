@@ -1,7 +1,7 @@
 
 # DuckWorld Revive
 
-Welkom bij DuckWorld Revive! Wij zijn een team van enthousiaste 14- en 13-jarigen die werken aan het herstellen van de DuckWorld-game door middel van de DuckWorld API. We zijn vastbesloten om deze geweldige game weer tot leven te brengen!
+Welkom bij DuckWorld Revive! Wij zijn een team van entoushiaste ex-DuckWorld spelers geobsedeerd met het herstellen van de DuckWorld-game door middel van de DuckWorld API. We zijn vastbesloten om deze geweldige game weer tot leven te brengen!
 
 ## Over DuckWorld Revive
 
