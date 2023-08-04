@@ -18,3 +18,7 @@ Als je ons werk wilt ondersteunen, kun je ons een donatie doen via [Buy Me a Cof
 ## Bedankt voor je interesse!
 
 Bedankt voor je interesse in DuckWorld Revive. Samen kunnen we de eendenwereld herstellen en weer tot leven brengen!
+
+
+
+Btw, deze tekst is geschreven met ChatGPT. Ik zou dit nooit zelf kunnen schrijven.
